@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elhamuddin Mayar</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhamuddimayar" alt="elhamuddimayar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/elhamuddinmayar" target="blank"><img src="https://img.shields.io/twitter/follow/elhamuddinmayar?logo=twitter&style=for-the-badge" alt="elhamuddinmayar" /></a> </p>
 
 - 🔭 I’m currently working on [pose_and_gesture_recognition_system](https://github.com/elhamuddinmayar/pose_and_gesture_recognition_system)
