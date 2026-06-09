@@ -194,7 +194,7 @@ class ElhamuddinMayar:
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p> 
 <div align="center">
-*"First, solve the problem. Then, write the code."*
+"First, solve the problem. Then, write the code."
 </div>
 <!-- ===================== FOOTER BANNER ===================== -->
 <p align="center">
