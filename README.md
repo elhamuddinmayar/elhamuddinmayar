@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Elhamuddin%20Mayar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=18&descFontColor=a0c4d8"/>
 </p>
 
-<!-- ===================== ANIMATED TYPING ===================== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=580&lines=🚀+Backend+Engineer+%7C+AI%2FML+Developer;🧠+Computer+Vision+%7C+YOLO+%7C+DeepFace;🌐+Django+%7C+React+%7C+Flutter;🦋+Building+systems+that+see+%26+think..." alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- ===================== BADGES ROW ===================== -->
 <p align="center">
