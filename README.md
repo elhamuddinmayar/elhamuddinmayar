@@ -199,11 +199,12 @@ class ElhamuddinMayar:
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p> 
+<div align="center">
+*"First, solve the problem. Then, write the code."*
+</div>
 <!-- ===================== FOOTER BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
 
-<div align="center">
-*"First, solve the problem. Then, write the code."*
-</div>
+
