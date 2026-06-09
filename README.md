@@ -1,11 +1,23 @@
-<div align="center">
-# Hi there, I'm Elhamuddin Mayar 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=   Elhamuddin%20Mayar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-### Full-Stack Developer · AI/ML Enthusiast · Django Expert
+<h3 align="center">
+Software Engineer | Backend Engineer 
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Django+%2B+AI%2FML+Builder;Pose+%26+Gesture+Recognition;Always+learning+something+new+🚀)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elhamuddin&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-</div>
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="400"
+    height="225"
+    style="object-fit: cover;"
+  />
+</p>
 
 ---
 
