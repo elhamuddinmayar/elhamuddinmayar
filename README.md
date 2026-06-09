@@ -1,68 +1,116 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=   Elhamuddin%20Mayar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | Backend Engineer 
-</h3>
+```
+███████╗██╗     ██╗  ██╗ █████╗ ███╗   ███╗
+██╔════╝██║     ██║  ██║██╔══██╗████╗ ████║
+█████╗  ██║     ███████║███████║██╔████╔██║
+██╔══╝  ██║     ██╔══██║██╔══██║██║╚██╔╝██║
+███████╗███████╗██║  ██║██║  ██║██║ ╚═╝ ██║
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elhamuddin&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+**`ELHAMUDDIN MAYAR`**
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="400"
-    height="225"
-    style="object-fit: cover;"
-  />
-</p>
+*Building systems that see, think, and scale.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+AI+%2F+ML+Developer;Computer+Vision+%7C+Django+%7C+PyTorch;Turning+ideas+into+intelligent+systems.)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=elhamuddinmayar&label=profile+views&color=00d9ff&style=flat-square" />
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-elhamuddinmayar.netlify.app-00d9ff?style=flat-square&logo=google-chrome&logoColor=white)](https://elhamuddinmayar.netlify.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/elhamuddinmayar)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## ⚡ Who I Am
+
+I'm a **Software / Backend Engineer** from Afghanistan 🇦🇫 who works at the intersection of **backend systems**, **AI/ML**, and **computer vision**. I care about building software that is purposeful, robust, and a little bit remarkable.
+
+Currently obsessed with: real-time AI systems, intelligent surveillance, and making machines actually understand what they're looking at.
 
 ```python
 class ElhamuddinMayar:
-    name       = "Elhamuddin Mayar"
-    role       = "Full-Stack Developer"
+    role       = "Backend Engineer + AI/ML Developer"
     location   = "Afghanistan 🇦🇫"
-    email      = "elhamuddinmayar@gmail.com"
-    portfolio  = "https://elhamuddinmayar.netlify.app"
-    
-    current_project = "Butterfly Surveillance System"
-    learning        = ["Django", "AI/ML", "Computer Vision"]
-    ask_me_about    = ["Django", "Machine Learning", "Python"]
-    fun_fact        = "Fan of 🦋"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+    contact    = "elhamuddinmayar@gmail.com"
+
+    focus = [
+        "Real-time Computer Vision Systems",
+        "Scalable Django REST APIs",
+        "Deep Learning with PyTorch & TensorFlow",
+    ]
+
+    currently_building = "Butterfly Surveillance System — YOLO + DeepFace"
+    learning           = ["Advanced CV pipelines", "MLOps", "Distributed systems"]
+    fun_fact           = "Named a surveillance system after a butterfly 🦋"
 ```
 
 ---
 
-## 🔭 Current Project
+## 🔬 Flagship Project
 
-> **[Pose & Gesture Recognition System](https://github.com/elhamuddinmayar/pose_and_gesture_recognition_system)**  
-> A real-time AI surveillance system using YOLO + DeepFace for pose detection, fall detection, hand gesture recognition, and face matching.
+<table>
+<tr>
+<td width="60%">
+
+### 🦋 Pose & Gesture Recognition System
+> Real-time AI surveillance using **YOLO + DeepFace**
+
+**What it does:**
+- 🧍 Human pose detection & fall detection
+- 🤚 Hand gesture recognition
+- 👤 Real-time face matching & identification
+- 📹 Live camera stream processing
+
+**Stack:** `Python` · `OpenCV` · `YOLO` · `DeepFace` · `Django` · `Redis`
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/elhamuddinmayar/pose_and_gesture_recognition_system)
+
+</td>
+<td width="40%" align="center">
+
+```
+  📷 Camera Feed
+       │
+       ▼
+  ┌─────────────┐
+  │  YOLO Model │ ← Pose / Object Detection
+  └──────┬──────┘
+         │
+  ┌──────▼──────┐
+  │  DeepFace   │ ← Face Recognition
+  └──────┬──────┘
+         │
+  ┌──────▼──────┐
+  │   Django    │ ← API / Orchestration
+  │   + Redis   │ ← Real-time Queue
+  └─────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Frameworks & Libraries
+### Backend & Web
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### AI / ML
+### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -72,8 +120,8 @@ class ElhamuddinMayar:
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -88,40 +136,51 @@ class ElhamuddinMayar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elhamuddinmayar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhamuddinmayar&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=elhamuddinmayar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhamuddinmayar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elhamuddinmayar&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elhamuddinmayar.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhamuddinmayar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elhamuddinmayar)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elhamuddinmayar)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/elhamuddinmayar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhamuddinmayar@gmail.com)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elhamuddinmayar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+## 🧭 Currently Focused On
+
+```
+[ ML Engineering ]     Optimizing real-time inference pipelines
+[ System Design   ]    Designing scalable backend architectures for AI services
+[ Open Source     ]    Contributing CV tools & Django utilities
+[ Learning        ]    MLOps, model deployment, Kubernetes
+```
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 💬 "Code is like humor. When you have to explain it, it's bad." — Cory House
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [elhamuddinmayar.netlify.app](https://elhamuddinmayar.netlify.app) |
+| 💼 LinkedIn | [linkedin.com/in/elhamuddinmayar](https://linkedin.com/in/elhamuddinmayar) |
+| 🐦 Twitter / X | [@elhamuddinmayar](https://twitter.com/elhamuddinmayar) |
+| 📺 YouTube | [@elhamuddinmayar](https://www.youtube.com/@elhamuddinmayar) |
+| 💬 Discord | elhamuddinmayar |
+| 📧 Email | elhamuddinmayar@gmail.com |
 
-![Profile Views](https://komarev.com/ghpvc/?username=elhamuddinmayar&color=00d9ff&style=for-the-badge)
+</div>
 
-⭐️ **If you like my work, consider giving my repos a star!**
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+**⭐ If something I built helped you, a star means a lot.**
 
 </div>
