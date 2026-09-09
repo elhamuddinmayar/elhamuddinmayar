@@ -16,7 +16,7 @@
   </a>
 
   <a href="mailto:elhamuddinmayar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ class ElhamuddinMayar:
             "Django",
             "Django REST Framework",
             "Node.js",
-            "Express.js",
+            "Express.js"
         ]
 
         self.frontend = [
@@ -49,13 +49,13 @@ class ElhamuddinMayar:
             "JavaScript",
             "TypeScript",
             "Tailwind CSS",
-            "Bootstrap",
+            "Bootstrap"
         ]
 
         self.mobile = [
             "Flutter",
             "Dart",
-            "Android",
+            "Android"
         ]
 
         self.databases = [
@@ -63,74 +63,88 @@ class ElhamuddinMayar:
             "MySQL",
             "MariaDB",
             "SQLite",
-            "Redis",
+            "Redis"
         ]
 
         self.devops = [
-            "Docker",
-            "Linux",
             "AWS EC2",
+            "Linux",
             "Nginx",
             "Gunicorn",
+            "Docker",
             "Git",
-            "GitHub Actions",
+            "GitHub Actions"
         ]
 
-        self.ai_cv = [
-            "OpenCV",
-            "YOLO",
-            "DeepFace",
-            "PyTorch",
-            "TensorFlow",
-        ]
-
-        self.current_focus = [
+        self.services = [
             "Full-Stack Web Applications",
-            "REST API Architecture",
+            "REST API Development",
             "Mobile Applications",
-            "Business & Management Systems",
-            "Cloud Deployment",
-            "AI-Integrated Applications",
+            "Business Management Systems",
+            "Admin Dashboards",
+            "Database Design",
+            "Deployment & Server Setup",
+            "AI Integration"
         ]
-
-    def say_hi(self):
-        return "I build practical, scalable software from backend APIs to web and mobile interfaces."
 ```
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Can Build For You
 
-I am a **Full-Stack Software Engineer** focused on designing and building complete software products — from backend architecture and REST APIs to responsive web applications, mobile applications, databases, deployment, and production infrastructure.
+I build complete, production-ready software solutions for businesses, startups and individual clients.
 
-My main stack is **Django + Django REST Framework + React + Flutter**, with practical experience deploying applications using **AWS, Linux, Nginx, Gunicorn, Docker, GitHub, PostgreSQL, MySQL and Redis**.
+My main stack is **Django + Django REST Framework + React + Flutter**, allowing me to handle the full development process from backend APIs and databases to modern web interfaces, mobile apps and deployment.
 
-I also have experience integrating **Artificial Intelligence and Computer Vision** into real-world applications using technologies such as **YOLO, OpenCV, DeepFace, PyTorch and TensorFlow**.
+### My Freelance Services
+
+- 🌐 Full-stack web applications
+- ⚙️ Django backend development
+- 🔌 REST API development & integration
+- ⚛️ React dashboards and web interfaces
+- 📱 Flutter Android/iOS applications
+- 🛒 E-commerce systems
+- 🏢 Business management systems
+- 💰 Financial and transaction systems
+- 👥 Customer & employee management platforms
+- 📊 Admin dashboards and reporting systems
+- 🔐 Authentication & role-based permissions
+- 🪪 KYC and identity verification workflows
+- 💳 Wallet and payment-related systems
+- 🗄️ Database design & optimization
+- ☁️ AWS/Linux server deployment
+- 🚀 Nginx + Gunicorn production setup
+- 🔄 GitHub Actions / CI-CD deployment
+- 🤖 AI and Computer Vision integration
 
 ---
 
-## 🧩 Featured Work
+## 💼 Featured Projects
 
 ### 💱 Exchange & Money Transfer System
 
-A full-stack financial management platform designed for exchange and money-transfer operations.
+A complete financial platform designed for exchange offices and money-transfer businesses.
 
-**Key areas:**
+**Features:**
 
-- Customer and account management
-- Multi-currency wallet management
-- Exchange-rate handling
-- Transactions and remittances
-- KYC and identity verification
+- Customer management
+- Multi-currency wallets
+- Exchange rates
+- Currency exchange transactions
+- Money transfers & remittances
+- KYC verification
+- Identity document management
 - Branch management
-- Compliance workflows
-- Notifications
+- Transaction limits
+- Role-based permissions
 - Financial reporting
+- Notifications
 - Audit logs
-- REST API architecture
-- Mobile application integration
+- REST API
+- Web dashboard
+- Flutter mobile application support
 
-**Technology:**
+**Stack:**
 
 `Django` · `Django REST Framework` · `React` · `Vite` · `Flutter` · `PostgreSQL` · `Redis` · `JWT`
 
@@ -138,20 +152,23 @@ A full-stack financial management platform designed for exchange and money-trans
 
 ### 🧺 Laundry Management System
 
-A complete business-management platform with web backend and mobile application support.
+A business-management solution for laundry and dry-cleaning companies.
 
-**Features include:**
+**Features:**
 
 - Customer management
-- Order processing
-- Laundry service tracking
+- Service management
+- Order creation
+- Order tracking
 - Payment management
 - Status workflows
 - Reports
-- Mobile application integration
+- Dashboard
+- REST API
+- Flutter mobile application
 - Production deployment
 
-**Technology:**
+**Stack:**
 
 `Django` · `REST API` · `Flutter` · `PostgreSQL` · `AWS EC2` · `Nginx` · `Gunicorn`
 
@@ -159,51 +176,51 @@ A complete business-management platform with web backend and mobile application 
 
 ### 📖 Quran Karim Pashto
 
-A mobile Quran application designed to provide a clean and accessible reading experience for Pashto-speaking users.
+A mobile Quran application developed for Pashto-speaking users.
 
-**Features include:**
+**Features:**
 
 - Quran text
 - Pashto translation
 - Tafsir
 - Recitation
 - Search
-- User-friendly mobile interface
-- Optimized application size
+- Clean mobile UI
+- Optimized performance
 
-**Technology:**
+**Stack:**
 
 `Flutter` · `Dart` · `Mobile UI/UX`
 
 ---
 
-### 🤖 AI-Powered Smart Surveillance System
+### 🤖 Smart Surveillance Platform
 
-A real-time Computer Vision platform for intelligent surveillance and behavioral monitoring.
+A full-stack AI-powered monitoring platform combining Django with real-time Computer Vision.
 
-**Capabilities include:**
+**Features:**
 
-- Human pose detection
-- Gesture recognition
 - Face recognition
-- Multi-person monitoring
-- Target-person identification
+- Person detection
+- Pose detection
+- Gesture recognition
 - Real-time camera processing
-- Alerts and notifications
-- Role-based dashboards
+- Role-based access
+- Notifications
+- Dashboard
 - Verification workflows
 
-**Technology:**
+**Stack:**
 
-`Python` · `Django` · `OpenCV` · `YOLO` · `DeepFace` · `TensorFlow` · `Redis` · `Django Channels`
+`Python` · `Django` · `OpenCV` · `YOLO` · `DeepFace` · `Redis` · `Django Channels`
 
 ---
 
-### 🎓 Kankor Predictor
+### 🎓 Kankor Prediction System
 
-A Django-based prediction platform that analyzes historical entrance-exam information to help estimate suitable university faculties based on student scores.
+A web-based prediction system designed to analyze historical Kankor exam information and estimate suitable faculties based on student scores.
 
-**Technology:**
+**Stack:**
 
 `Python` · `Django` · `Pandas` · `Machine Learning` · `MySQL`
 
@@ -213,48 +230,36 @@ A Django-based prediction platform that analyzes historical entrance-exam inform
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 📱 Mobile Development
+### 📱 Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 🧠 AI & Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🗄️ Databases & Caching
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -262,7 +267,7 @@ A Django-based prediction platform that analyzes historical entrance-exam inform
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ DevOps & Deployment
+### ☁️ Deployment & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -270,83 +275,86 @@ A Django-based prediction platform that analyzes historical entrance-exam inform
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔧 Development Tools
+### 🤖 AI Integration
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Software Engineering
+## 🏗️ Software Solutions I Work With
 
 ```text
-Backend Architecture       ███████████████████░
-REST API Development       ███████████████████░
-Database Design            ██████████████████░░
-React Frontend             ██████████████████░░
-Flutter Development        █████████████████░░░
-Linux / Deployment         █████████████████░░░
-AI / Computer Vision       █████████████████░░░
-Git & Collaboration        ███████████████████░
+Business Management Systems
+├── Customers
+├── Employees
+├── Orders
+├── Payments
+├── Services
+├── Inventory
+├── Reports
+└── Admin Dashboards
+
+Financial Systems
+├── Wallets
+├── Transactions
+├── Exchange Rates
+├── Transfers
+├── KYC
+├── Transaction Limits
+├── Reports
+└── Audit Logs
+
+Web Platforms
+├── Django REST APIs
+├── React Frontends
+├── Authentication
+├── Permissions
+├── Dashboards
+├── Notifications
+└── File Management
+
+Mobile Applications
+├── Flutter
+├── REST API Integration
+├── Authentication
+├── Local Storage
+├── Responsive UI
+└── Production Builds
 ```
-
-My engineering interests include:
-
-- Clean and maintainable application architecture
-- Modular Django applications
-- RESTful API design
-- Authentication and authorization
-- Role-based access control
-- Database modeling
-- Real-time systems
-- Web and mobile integration
-- Cloud deployment
-- CI/CD workflows
-- Business-management platforms
-- AI integration into production software
 
 ---
 
-## 💼 Professional Experience
+## 🎯 Why Work With Me?
 
-### 💻 Software Development
+I focus on software that is:
 
-Experience building full-stack systems using modern backend, frontend, mobile and database technologies.
+- ✅ Clean and maintainable
+- ✅ Easy to extend
+- ✅ Secure and structured
+- ✅ Responsive
+- ✅ Mobile-friendly
+- ✅ API-driven
+- ✅ Properly documented
+- ✅ Ready for deployment
+- ✅ Designed for real business requirements
 
-### 🏢 ERP & Systems Implementation
-
-Worked with enterprise software concepts, requirements analysis, system documentation, ERP implementation and the Frappe ecosystem.
-
-### 🤖 AI & Embedded Systems
-
-Experience with Computer Vision, autonomous systems, Raspberry Pi, drones, camera processing and real-time AI applications.
+I prefer writing **human-readable and maintainable code** rather than unnecessary complexity.
 
 ---
 
-## 🎯 Current Focus
+## 🤝 Available For Freelance Work
 
-```text
-🏗️ Full-Stack Engineering
-   └── Django + DRF + React + Flutter
+I am available for:
 
-💳 Financial & Business Systems
-   └── Transactions · Wallets · KYC · Reporting · Management
+**Django Development** · **React Development** · **Flutter Development** · **Full-Stack Projects** · **REST APIs** · **Business Systems** · **Admin Dashboards** · **E-commerce Platforms** · **Financial Systems** · **Database Design** · **Bug Fixing** · **Existing Project Improvements** · **API Integration** · **AWS Deployment**
 
-📱 Mobile Applications
-   └── Flutter · REST APIs · Production-ready UI
-
-☁️ Cloud & Deployment
-   └── AWS · Linux · Nginx · Gunicorn · Docker · CI/CD
-
-🤖 AI Integration
-   └── Computer Vision · YOLO · OpenCV · Intelligent Automation
-```
+If you have an idea, existing system, or business process that needs to be turned into software, feel free to contact me.
 
 ---
 
@@ -368,74 +376,35 @@ Experience with Computer Vision, autonomous systems, Raspberry Pi, drones, camer
 
 ---
 
-## 🌱 Engineering Philosophy
-
-> Build software that is understandable, maintainable and useful — not just software that works.
-
-I enjoy transforming real-world problems into complete digital systems by combining backend engineering, frontend development, mobile applications, databases, infrastructure and intelligent automation.
-
----
-
-## 🤝 Open To
-
-I'm interested in opportunities involving:
-
-- Full-Stack Software Engineering
-- Backend Engineering
-- Django / Python Development
-- React Development
-- Flutter Application Development
-- REST API Development
-- Business Management Systems
-- FinTech & Financial Systems
-- AI-Integrated Applications
-- Computer Vision
-- Software Architecture
-- Remote Development & Freelance Projects
-
----
-
-## 📫 Connect With Me
+## 📫 Let's Work Together
 
 <div align="center">
 
 <a href="https://elhamuddinmayar.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/elhamuddinmayar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/elhamuddinmayar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@elhamuddinmayar">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:elhamuddinmayar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
-</p>
-
 <div align="center">
 
-### `"First understand the problem. Then engineer the solution."`
+### 💻 Have a project in mind?
 
-**Thanks for visiting my profile.**
+**Let's turn your idea into a reliable web or mobile application.**
+
+`Full-Stack Development` • `Django` • `React` • `Flutter` • `REST APIs`
 
 </div>
-
-<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
