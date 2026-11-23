@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Elhamuddin%20Mayar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=16&descFontColor=a0c4d8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Elhamuddin%20Mayar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20·%20Co-Founder%20of%20Shahkar%20Technology&descAlignY=58&descSize=15&descFontColor=a0c4d8" />
 </p>
 
 <p align="center">
   <a href="https://elhamuddinmayar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=google-chrome&logoColor=00d9ff" /></a>
-  <a href="https://linkedin.com/in/elhamuddinmayar"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:elhamuddinmayar@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836" /></a>
 </p>
 
@@ -12,21 +11,36 @@
 
 ### About
 
-Full-stack engineer based in Afghanistan, building production systems with **Django, React and Flutter**: from database design and REST APIs to web dashboards, mobile apps and Linux server deployment.
+Full-stack software engineer and **Co-Founder of Shahkar Technology**, based in Afghanistan.
 
-Most of my work is business and financial software: money-transfer platforms, management systems and internal tools where correctness, permissions and auditability matter. I value clear, maintainable code over clever code.
+I design and ship production software end to end: data models, APIs, web and mobile clients, and the Linux infrastructure they run on. Most of my work is business and financial software, where correctness, access control and auditability come first.
 
 ---
 
-### Selected Work
+### What I Bring
 
-| Project | Description | Stack |
-|---|---|---|
-| **Exchange & Money Transfer System** | Multi-currency wallets, remittances, KYC, branch management, transaction limits and audit logs, with web and mobile clients. | Django · DRF · React · Flutter · PostgreSQL · Redis |
-| **Laundry Management System** | Orders, payments, status workflows and reporting for laundry businesses. Deployed in production. | Django · Flutter · PostgreSQL · AWS · Nginx |
-| **Smart Surveillance Platform** | Real-time face, person and pose detection with role-based access and live notifications. | Django · Channels · OpenCV · YOLO · DeepFace |
-| **Quran Karim Pashto** | Quran app for Pashto speakers with translation, tafsir, recitation and search. | Flutter · Dart |
-| **Kankor Prediction System** | Suggests suitable university faculties from historical Kankor exam data. | Django · Pandas · ML |
+- **Backend architecture:** Django/DRF and Node.js services, PostgreSQL schema design, Redis caching, and real-time features with WebSockets.
+- **Web and mobile apps:** React web apps and Flutter mobile apps built on one shared API, taken from requirements to production.
+- **Infrastructure:** Docker, Nginx, AWS and CI/CD with GitHub Actions. I handle deployments as well as the code.
+- **Technical leadership:** As co-founder, I set technical direction, turn business requirements into architecture, and keep delivery on schedule.
+
+---
+
+### Industries I've Shipped For
+
+**Fintech:** multi-currency remittance, KYC, transaction limits, audit trails
+**Operations:** order, payment and reporting platforms running in production
+**Computer vision:** real-time detection and monitoring with OpenCV and YOLO
+**Education and community:** Pashto-language mobile apps and data-driven guidance tools
+
+---
+
+### How I Work
+
+- Get the data model right first. Most bugs start as design mistakes.
+- Build permissions and audit logs in from day one, not after launch.
+- Write readable code, not clever code.
+- Ship in small steps, measure the results, and improve.
 
 ---
 
@@ -54,5 +68,5 @@ Most of my work is business and financial software: money-transfer platforms, ma
 ---
 
 <p align="center">
-  Open to freelance and full-time roles. <a href="mailto:elhamuddinmayar@gmail.com">Get in touch</a>.
+  Open to freelance projects, technical partnerships and full-time roles. <a href="mailto:elhamuddinmayar@gmail.com">Let's talk</a>.
 </p>
